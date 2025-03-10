@@ -11,10 +11,8 @@ Flutter
 Dart
 
 Screenshots
-![image](https://github.com/user-attachments/assets/4e6cd412-d102-4785-bd28-ab04d0c009ed)
-![image](https://github.com/user-attachments/assets/80c6e34f-8cce-4a03-9561-b83fc3c070bf)
-![image](https://github.com/user-attachments/assets/78d44e28-31b4-4d3a-8a69-d303351b66d2)
 
-
-
-
+first version screens:
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
